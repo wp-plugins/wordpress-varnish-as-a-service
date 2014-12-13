@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WordPress Varnish as a Service
-Version: 1.2.0
-Author: Javier Casares
-Author URI: http://javiercasares.com/
-Plugin URI: http://javiercasares.com/wp-varnish-aas/
+Version: 1.2.1
+Author: Joan Artés
+Author URI: http://joanartes.com/
+Plugin URI: http://joanartes.com/wordpress-varnish-as-a-service/
 Description: A plugin for purging Varnish cache when content is published or edited. It works with HTTP purge and Admin Port purge. Works with Varnish 2 (PURGE) and Varnish 3 (BAN) versions. Based on WordPress Varnish and Plugin Varnish Purges.
 */
 class WPVarnish {

@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: JavierCasares
+Contributors: jartes, JavierCasares
 Tags: varnish
 Requires at least: 2.5
-Tested up to: 3.6
-Stable tag: 1.2.0
+Tested up to: 4.0.1
+Stable tag: 1.2.1
 
 Clear your Varnish cache when new, edited or deleted content happens.
 
@@ -27,19 +27,23 @@ Based on <a href="http://wordpress.org/extend/plugins/wordpress-varnish/">WordPr
 
 == Changelog ==
 
+= 1.2.1 =
+ * WordPress 4 compatibility
+ * Added plugin icon
+
 = 1.2.0 =
- Fixed first server configuration
- Fix some problems with some PHP distributions
+ * Fixed first server configuration
+ * Fix some problems with some PHP distributions
 
 = 1.1.1 =
- Up to 3 Varnish servers
+ * Up to 3 Varnish servers
 
 = 1.1.0 =
- Delete configuration when uninstalled
- Performance improvements
- Controlled login to Varnish with or without Secret Key
- Tested up to WordPress 2.5
- Connection test to Varnish Server
+ * Delete configuration when uninstalled
+ * Performance improvements
+ * Controlled login to Varnish with or without Secret Key
+ * Tested up to WordPress 2.5
+ * Connection test to Varnish Server
 
 = 1.0.1 =
- First stable version
+ * First stable version
