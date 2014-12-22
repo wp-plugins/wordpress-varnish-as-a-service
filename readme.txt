@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: jartes, JavierCasares
-Tags: varnish
+Tags: varnish, cache, purge, ban
 Requires at least: 2.5
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.2.1
 
 Clear your Varnish cache when new, edited or deleted content happens.
