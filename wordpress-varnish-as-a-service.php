@@ -490,5 +490,4 @@ class WPVarnish {
 <?php
 	}
 }
-$wpvarnish = & new WPVarnish();
-?>
+$wpvarnish = new WPVarnish();

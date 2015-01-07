@@ -36,4 +36,3 @@ delete_option("wpvarnish_timeout_3");
 delete_option("wpvarnish_use_adminport_3");
 delete_option("wpvarnish_use_version_3");
 delete_option("wpvarnish_server_3");
-?>
